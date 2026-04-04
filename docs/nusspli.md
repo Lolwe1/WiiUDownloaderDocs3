@@ -1,4 +1,4 @@
-# How to install NUSspli
+# How to install NUSSPLI
 
 1.  Download NUSspli from the [latest release](https://github.com/V10lator/NUSspli/releases/latest).
     -   Make sure to download the right one: **Aroma** for Aroma, **Channel** for Tiramisu.
