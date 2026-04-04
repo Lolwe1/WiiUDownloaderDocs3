@@ -39,7 +39,6 @@ const sidebars = {
       type: 'category',
       label: 'Storage & File Formats',
       items: [
-        'storage-guide',
         'hdd-guide',
         'wux-wua',
       ],
